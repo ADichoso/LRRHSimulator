@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdlib.h": "c",
+        "lrrhmenu_prototype.h": "c",
+        "limits.h": "c",
+        "time.h": "c",
+        "mathfunctions_prototype.h": "c",
+        "stdio.h": "c",
+        "string.h": "c"
+}
+}
